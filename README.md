@@ -1,66 +1,93 @@
- Python Project
-This project is a beginner-friendly yet insightful analysis of IPL (Indian Premier League) cricket data using Python and Jupyter Notebook. It includes match-level data processing, venue insights, and team performance analytics using pandas and visualization libraries.
+# 🐍 Python Certifications, Notes & IPL Data‑Analysis Portfolio  
+**Owner:** Prashant8064  
 
-📁 Project Structure
-File Name	Description
-IPL_MATCH_ANALYZER_.ipynb	Main Jupyter notebook for IPL data analysis
-PYTHON_FILE.ipynb	Additional Python notebook for exploration
-Ball_by_Ball.csv	Ball-by-ball match data
-matches (1).csv	Match-level summary data
-ipl_team_wins.csv	Team-wise wins
-ipl_team_venue_wins.csv	Team performance by venue
-ipl_venue_counts.csv	Match count per venue
-*.jpg, *.pdf	Python certification images and course PDFs
-README.md	Project documentation (this file)
+---
 
-⚙️ Tech Used
-Python (Pandas, NumPy)
+## 📁 Overview  
+This repository brings together everything I’ve done so far with Python, including:  
 
-Jupyter Notebook
+- 👩‍💻 Hands‑on Jupyter‑notebook projects  
+- 📊 Real‑world IPL datasets & exploratory analysis  
+- 🏅 Verified certificates proving my Python proficiency  
+- 📚 Comprehensive study notes (core Python → SQL → ML → Django → DSA)  
 
-Matplotlib / Seaborn (for plotting)
+These resources showcase my skills in data wrangling, visualization, statistical analysis, and full‑stack Python development.
 
-IPL datasets (CSV format)
+---
 
-🔍 Features
-Load and clean IPL match datasets
+## 🧾 Table of Contents  
 
-Analyze:
+### ✅ Python Notes  
+| File Name | Description |
+|-----------|-------------|
+| **`FULL PYTHON NOTES PY SQL ML DJANGO OR DSA.pdf`** | 300‑page reference covering Python basics, OOP, SQL queries, Django MVC, Machine‑Learning workflows, and classic Data‑Structures & Algorithms. |
 
-Match count by venue
+---
 
-Team performance across seasons
+### 🏅 Certifications  
+| File | Issuer | What it Confirms |
+|------|--------|------------------|
+| **`FREE CODE CAMP PYTHON CERTFICATE.jpg`** | freeCodeCamp | Completed the *Scientific Computing with Python* curriculum. |
+| **`GEEKS FOR GEEKS PYTHON.pdf`** | GeeksforGeeks | Finished *Python Programming* course (2025 edition). |
+| **`HACKER RANK PY CERTFICATE.pdf`** | HackerRank | Verified *Python (Intermediate)* skill badge. |
+| **`6255802759672611786.jpg`, `6255802759672611787.jpg`** | — | Additional screenshot proofs. |
 
-Win ratios and venue advantage
+---
 
-Visualize trends using bar charts and line plots
+### 📁 Projects & Notebooks  
 
-Jupyter Notebook outputs with code, visuals, and insights
+| File | Description |
+|------|-------------|
+| **`IPL_MATCH_ANALYZER_.ipynb`** | Core notebook: cleans multiple IPL datasets, builds summary tables, and visualizes team, venue, and toss effects with Pandas, Matplotlib & Seaborn. |
+| **`PYTHON_FILE.ipynb`** | Sandbox notebook for ad‑hoc EDA, quick experiments, and plotting prototypes. |
 
-🚀 How to Run
-Clone this repo or download ZIP
+---
 
-Open IPL_MATCH_ANALYZER_.ipynb in Jupyter or VS Code
+### 📂 Datasets  
 
-Run all cells to explore data insights
+| File | What’s Inside |
+|------|---------------|
+| **`Ball_by_Ball.csv`** | Every delivery in IPL history: batsman, bowler, runs, extras, dismissal info. |
+| **`matches (1).csv`** | Match‑level summary: teams, winner, toss decision, venue, season, result type. |
+| **`ipl_team_venue_wins.csv`** | Pre‑aggregated wins for each team broken down by stadium. |
+| **`ipl_team_wins (1).csv`** | Total wins per franchise across all seasons. |
+| **`ipl_venue_counts.csv`** | Number of matches hosted by every IPL venue. |
 
-Edit PYTHON_FILE.ipynb for your own analysis extensions
+---
 
-📜 Certifications
-This project is backed by certificates from:
+## 🛠 Skills Demonstrated  
+- **Python 3.8+** syntax & best practices  
+- **Pandas** data‑frame manipulation, group‑by aggregations  
+- **NumPy** vectorized operations  
+- **Matplotlib & Seaborn** visualization (bar, heatmap, line, scatter)  
+- **Exploratory Data Analysis (EDA)** & storytelling with notebooks  
+- **Version control** (Git) & markdown documentation  
 
-GeeksforGeeks (Python Course – 2025)
+---
 
-FreeCodeCamp
+## 🔖 Usage Guide  
 
-HackerRank
+1. **Clone** the repo.  
+2. Install requirements (optional – notebooks use only the standard data‑science stack).  
+3. Open `IPL_MATCH_ANALYZER_.ipynb` in Jupyter / VS Code and **run cells in order**.  
+4. Swap in newer CSVs or tweak parameters to explore fresh seasons or what‑if scenarios.  
 
-Additional PDFs and learning notes are included
+---
 
-🙋‍♂️ Author
-Prashant8064
-🟢 Python & Data Analysis Enthusiast
-📅 Created: May 2025
+## 💡 Ideal For  
 
-📌 License
-This project is open-source and can be used for learning, academic, or portfolio purposes. Attribution appreciated.
+- Students building a **data‑science portfolio**  
+- Cricket enthusiasts curious about **team strategies & venue quirks**  
+- Anyone prepping for **Python / data‑analytics interviews**  
+- Rapid prototyping in Kaggle‑style sports analytics competitions  
+
+---
+
+## 📌 Contact  
+
+**Name:** Prashant8064  
+**Email:** *prashantgupta8064@gmail.com*  
+
+
+> *Feedback and collaboration proposals are always welcome!*  
+
