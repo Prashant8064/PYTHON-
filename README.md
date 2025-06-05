@@ -1,4 +1,4 @@
-# 🏏 IPL Data Analysis Project
+# PYTHON NOTES FILES AND CEERTFICATION OR PROJECT 
 
 This project explores detailed data analysis and visualization on the Indian Premier League (IPL) datasets using Python. It includes multiple CSV datasets, Python notebooks, and a PowerPoint presentation summarizing key insights.
 
